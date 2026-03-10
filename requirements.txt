@@ -1,21 +1,10 @@
-# Core Streamlit App
 streamlit==1.32.2
 gunicorn==21.2.0
 
-# Google Gemini AI
 google-generativeai==0.5.4
 
-# Text to Speech
 gTTS==2.5.0
-
-# Environment variables
 python-dotenv==1.0.0
 
-# Utilities
 requests==2.31.0
-Pillow==10.1.0
-
-# Optional but useful dependencies
-numpy>=1.26.0
-pandas>=2.1.0
-markdown>=3.5.0
+Pillow>=11.0.0
