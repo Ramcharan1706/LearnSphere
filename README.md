@@ -555,7 +555,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
 
 ## 🎯 Future Enhancements
 
@@ -569,6 +568,4 @@ For issues, questions, or suggestions:
 
 ---
 
-**Built with ❤️ for ML learners worldwide**
-
-Happy Learning! 🚀
+**Built with ❤️ from Smooth Operators**
